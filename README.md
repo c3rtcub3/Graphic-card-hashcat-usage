@@ -1,1 +1,1 @@
-Using the power of GPU to crack complex passwords
+Using the power of External Graphic card  to crack complex passwords
